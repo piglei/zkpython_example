@@ -1,4 +1,4 @@
-# coding: utf-8 import time
+# coding: utf-8
 import logging
 from os.path import basename, join
 
